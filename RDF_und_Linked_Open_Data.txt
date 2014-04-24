@@ -1,3 +1,6 @@
-# A New Chapter
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### RDF
+RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als > 
+eine formale Sprache für die Beschreibung strukturierter Informationen.>(Hitzler, 20..., S. 35)
+RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung. (Vgl.Hitzler, 20..., S.35)
+Es gibt verschiedene syntaktische Austauschformate für RDF: Unter anderem  RDF/XML, die auch von der Deutschen Nationalbibliothek für Metadatenaustausch und Beschreibung von Personen und Dokumenten. (DNB...)
