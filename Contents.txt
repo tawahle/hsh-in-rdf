@@ -3,3 +3,4 @@
 chapter1.txt
 Einleitung.txt
 RDF_und_Linked_Open_Data.txt
+RDF_der_Fakult_t_III_der_HSH__Vorgehensweise.txt
