@@ -3,6 +3,6 @@
 chapter1.txt
 Einleitung.txt
 RDF_und_Linked_Open_Data.txt
-
-RDF-Datei.txt
 RDF_der_Fakultaet_III__Vorgehensweise.txt
+RDF-Datei.txt
+
