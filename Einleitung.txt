@@ -1,3 +1,3 @@
 ### Einleitung
 
-Die vorliegende Arbeit beschäftigt sich mit der Anwendung von semantischen Technologien an den Hochschulen. 
+Die vorliegende Arbeit beschäftigt sich mit der Anwendung von semantischen Technologien an den Hochschulen. Kollaboratives Arbeiten steht auf der Agenda bei vielen modernen wissenschaftlichen Einrichtungen. Linked Open Data soll die Informationen über Person und Arbeit der Forscher für andere auffindbar, zugänglich und nutzbar machen und somit die Zusammenarbeit der Wissenschaftler fördern. Die Anwendung von Linked Data Technologien an Hochschulen und Universitäten macht die Infrastruktur der Einrichtung für Studierende und Aussenstehende transparent. Darüberhinaus wird durch das Verlinken von Personen und Publikationen, Patente und Preize die Leistung der Hochschule deutlicher. 
