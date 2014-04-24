@@ -6,3 +6,4 @@ RDF_und_Linked_Open_Data.txt
 RDF_der_Fakult_t_III_der_HSH__Vorgehensweise.txt
 2._RDF_der_Fakult_t_III_der_HSH__Vorgehensweise.txt
 1._RDF_und_Linked_Open_Data.txt
+RDF-Beschreibung_der_Fakult_t_III__Vorgehensweise.txt
