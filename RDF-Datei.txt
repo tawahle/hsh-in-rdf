@@ -1,3 +1,155 @@
-# A New Chapter
+### RDF-Datei 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix core: <http://vivoweb.org/ontology#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1> .
+@prefix vcard: <http://www.w3.org/2006/vcard#> .
+@prefix obo: <http://purl.obolibrary.org/obo#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix hshont: <http://www.hs-hannover/ontology#> .
+@prefix hshobj: <http://www.hs-hannover/objekte/> .
+@prefix dbpedia: <http://www.dbpedia.org/dbpedia#> .
+@prefix teach: <http://linkedscience.org/teach/ns#> .
+
+
+hshobj:H4854 	rdf:type org:Organization , core:University ;
+	vcard:hasOrganizationName "Hochschule Hannover"@de , "Univercity of Applied Scince and Arts Hannover"@en ; 							
+	foaf:homepage <http://www.hs-hannover.de> ;
+	dbpedia:hasLocation dbpedia:Hannover ;	
+	org:hasSub-Organization hshobj:Fak6234 ; 
+	hshont:ermoeglichtAbschluesstyp hshobj:Abs8888 , hshobj:Abs9999 , hshobj:Abs5555 .
+	
+dbpedia:Hannover rdf:type dbpedia:City .
+	 
+hshobj:Abs8888 vcard:hasName "Bachelor" .
+
+hshobj:Abs9999 vcard:hasName "Master" .
+
+hshobj:Abs5555 vcard:hasName "Diplom" .
+	
+hshobj:Fak6234 rdf:type core:AcademicDepartment ;
+	org:Sub-OrganizationOf hshobj:H4854 ; 
+	vcard:hasOrganizationalUnitName "Fakultaet III Medien, Information und Design"@de ;
+	vcard:hasURL <http://f3.hs-hannover.de> ;
+	org:hasSub-Organization hshobj:Abt62341 .
+	
+hshobj:Abt62341  rdf:type core:Division ;
+	vcard:hasOrganizationalUnitName "Abteilung Information und Kommunikation"@de ;
+	org:Sub-OrganizationOf hshobj:H4854 ,hshobj:Fak6234 ;
+	vcard:hasAddress "Expo-Plaza 12", "D-30539" , "Hannover" ; 
+	vcard:hasTelephone "+49-(0) 511- 92 96 - 2602/2605" ;                                
+	vcard:hasEmail    <http://dekanat-ikat-zeichenhs-hannover.de> ;	
+	org:hasSub-Organization hshobj:S623411 , hshobj:S623412 .
+	
+hshobj:S623411 rdf:type hshont:Studiengang ;
+	org:Sub-OrganizationOf hshobj:H4854 , hshobj:Fak6234 , hshobj:Abt62341 ;
+	vcard:hasOrganizationalUnitName "Informationsmanagement"@de ;
+	vcard:homepage <http://f3.hs-hannover.de/studium/bachelor/informationsmanagement> ;
+	vcard:hasAddress "Expo Plaza 12" ;
+	hshont:hatAbschluessTyp hshobj:Abs8888 ;
+	hshont:hatSemesterAnzahl "7" ;
+	obo:locatedIn hshobj:Geb3333 .
+				
+hshobj:S623412 rdf:type hshont:Studiengang ;
+	org:SuborganizationOf hshobj:H4854 , hshobj:Fak6234 , hshobj:Abt62341 ;
+	vcard:hasOrganizationalUnitName "Medizinisches Informationsmanagement" ;
+	vcard:homepage <http://f3.hs-hannover.de/studium/bachelor/medizinisches-informationsmanagement> ;
+	hshont:hatAbschlusstyp hshobj:Abs8888 ;
+	hshont:hatSemesterAnzahl "7" ;
+	obo:locatedIn hshobj:Geb3333 .
+	
+hshobj:Geb3333 rdf:type core:Building ;
+	hshont:inBesitz hshobj:H4854 .
+	
+hshobj:P00075 rdf:type foaf:Person , foaf:Agent ;
+	core:relates	hshobj:H4854 , hshobj:Fak6234 , hshobj:S623411 , hshobj:S623412 ;
+	obo:memberOf hshobj:H4854 , hshobj:Fak6234 , hshobj:S623411 , hshobj:S623412 ;
+	core:hasTeacherRole hshobj:S623411 , hshobj:S623412 , hshobj:Abt62341 ;
+	core:hasFacultyMentoringPosition "Studiengangskoordinator" ;
+	core:hasAkademicDegree "Professor" , "Doktor" ;
+	vcard:FamilyName "Wartena" ;
+	vcard:GivenName "Christian" ;
+	vcard:hasAddress "Expo Plaza 12" , "30539  Hannover" , "Raum 4.85b" ;
+	vcard:hasTelephone "+49 511 9296-2594" ;
+	vcard:hasEmail <http://christian.wartenaat-zeichenhs-hannover.de> ;
+	dbpedia:hasLocation dbpedia:Hannover ;
+	teach:teacherOf hshobj:F00002 , hshobj:F333222 , hshobj:F44444 , hshobj:F77777 ;                                 
+	core:hasResearchArea hshobj:RA55555 ;
+	dc:creator "Segmentation Strategies for Passage Retrieval from Internet Video using Speech Transcripts" . 
+	
+hshobj:RA55555 dc:title "Sprach- und Wissensverarbeitung" .
+	
+hshobj:P00054 rdf:type foaf:Person ;
+	rdf:type foaf:Agent ;
+	core:relates hshobj:H4854 ;
+	obo:memberOf hshobj:Fak6234 ;
+	core:hasAkademicDegree "Professor" , "Doktor" ;
+	core:hasTeacherRole hshobj:S623411 , hshobj:S623412 ;
+	vcard:FamilyName "Wuebbelt" ;
+	vcard:GivenName "Peter" ;
+	vcard:hasAddress "Expo Plaza 12" , "30539  Hannover" , "Raum: 4.21" ;
+	vcard:hasTelephone "+49 511 9296-2660" ;
+	vcard:hasEmail <http://peter.wuebbeltat-zeichenhs-hannover.de> ;
+	dbpedia:hasLocationCity dbpedia:Hannover ;
+	teach:teacherOf hshobj:F00002 , hshobj:F333222 , hshobj:F009988 .
+
+hshobj:F333222 rdf:type teach:Course ;
+	dc:title "Grundlagen der XML" ;
+	hshont:InhaltVon hshobj:TM333222 , hshobj:M70452 .
+		
+hshobj:F00002 rdf:type teach:Course ;
+	dc:title "Semantic Web" ;
+	hshont:InhaltVon hshobj:TM00002 , hshobj:M70452 .
+		
+hshobj:M70452 teach:module hshobj:Sem6234113 ;
+	dc:title "XML und Semantic Web";
+	hshont:Modulart hshont:Wahlpflicht ;
+	teach:ects "6" .
+	
+hshobj:Sem6234113 hshont:Semester "3" ;
+	obo:partOf hshont:S623411 .
+
+hshobj:TM333222 hshont:TeilmodulVon hshobj:M70452 ;
+	dc:title "XML-Grundlagen, WiSe 2012" ;
+	hshont:beinhaltet hshobj:F333222;
+	teach:teacher hshobj:P00075 ;
+	hshont:wirdUnterrichtetFuer hshobj:Sem6234113 ;
+	teach:room hshobj:R73466 ;
+	teach:building hshobj:Geb3333 ;
+	teach:akademicTerm "Wintersemester 2012/2013" .
+	
+hshobj:TM00002 hshont:TeilmodulVon hshobj:M70452 ;
+	hshont:beinhaltet hshobj:F00002;
+	dc:title "Semantic Web, WiSe 2012" ;
+	teach:teacher hshobj:P00075 ;
+	hshont:wirdunterrichtetFuer hshobj:Sem6234113 ;
+	teach:room hshobj:R73466 ;
+	teach:building hshobj:Geb3333 ;
+	teach:akademicTerm "Wintersemester 2012/2013" .
+		
+hshobj:R73466   rdf:type core:Raum ;
+	hshont:hatNummer "2.29" ;
+	obo:locatedIn hshobj:Geb3333 ;
+	core:relates hshobj:S623411 , hshobj:S623412 , hshobj:Abt62341 , hshobj:Fak6234,  hshobj:H4854 .
+	
+hshobj:M34789 teach:module hshobj:S6234123 ;
+	dc:title "XML und Semantic Web" ;
+	obo:hasPart hshobj:F6234213 , hshobj:F00002 ;
+	hshont:Modulart hshont:Wahlpflicht ;
+	teach:ects "6" .
+	
+hshobj:S6234123 hshont:Semester "3" ;
+	obo:partOf hshobj:S623412 .
+	
+hshobj:F6234213 teach:teacher hshobj:P00054 ;
+	teach:room hshobj:R73489; 
+	teach:building hshobj:Geb3333 .
+	
+hshobj:R73489   rdf:type core:Room ;
+	hshont:hatNummer "3.59" ;
+	obo:locatedIn hshobj:Geb3333 ;
+	core:relates hshobj:S623411 , hshobj:S623412 , hshobj:Abt62341 , hshobj:Fak6234,  hshobj:H4854 .
