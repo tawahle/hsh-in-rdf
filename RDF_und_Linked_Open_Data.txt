@@ -2,9 +2,9 @@
 ### RDF
 Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wächst, ist RDF ein notwendiger Komponent für das Linked Open Data.
 RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als > 
-eine formale Sprache für die Beschreibung strukturierter Informationen.>(Hitzler, 20..., S. 35)
-RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung. (Vgl.Hitzler, 20..., S.35)
-Zur Beschreibung von Objekten verwendet RDF URIs (United Ressource Identifier). Die URIs ähnlen in ihrer Struktur den URLs und sind Verweise auf konkrete Objekte oder Personen. (Vgl. Hitzler 20.., S.36)
+eine formale Sprache für die Beschreibung strukturierter Informationen.>(Hitzler 2008, S. 35)
+RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung. (Vgl.Hitzler 2008, S.35)
+Zur Beschreibung von Objekten verwendet RDF URIs (United Ressource Identifier). Die URIs ähnlen in ihrer Struktur den URLs und sind Verweise auf konkrete Objekte oder Personen. (Vgl. Hitzler 2008, S.36)
 
 ### RDF und Linked Universities
 Der Zusammenschluss  Linked Universities vereint die europäischen Universitaeten und Hochschulen, die Informationen über Lehrende, Studierende, Lehrveranstaltungen usw. als Linked Data im Web darstellen. Mithilfe von RDF, URIs und Ontologien vernetzt Linked Data diese Informationen, macht sie auffindbar,  zugänglich und nutzbar. (Vgl. Linked Universities 2014) Die zentralle Idee ist, dass die Daten von verschiedenen Institutionen den gemeinsamen Bereich im Web, das so gennante Web of University Data, bilden. Zur Zeit sind das nur einige europäische Universitäten, die  für die Erfassung und Verknüpfung ihrer öffentlichen Informationen Linked Data Technologien nutzen. (Vgl. ebd.) Auf dem Portal Linked Universities findet Austausch über Instrumente zur technischen Umsetzung der Linked Data und kollaboratives Arbeiten an den Ontologien, die für universitäre Objekte und Koncepte wie: Course, Module, Teacher, genutzt werden können, statt. Das Portal bietet Auflistung der Instrumente, bestehender Ontologien und Links zu den Data Sets der Mitglieder - Universitäten. (Vgl. ebd.)
