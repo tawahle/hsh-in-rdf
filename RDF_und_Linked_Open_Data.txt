@@ -1,3 +1,4 @@
+##RDF und Linked Open Data  
 ### RDF
 Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wächst, ist RDF ein notwendiger Komponent für das Linked Open Data.
 RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als > 
