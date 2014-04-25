@@ -5,5 +5,6 @@ Jedes Objekt bekommt eine eindeutige Bezeichnung: eine URI. Zur Beschreibung von
 Falls es keine passende Eigenschaft oder Klasse gibt, werden fiktive Klassen und Eigenschaften aus der lokalen Hochschulontologie eingesetzt.
 Um die Klassen und die Eigenschaften von den Instanzen der Hochschule auseinander zu halten, werden zwei unterschiedliche Prefixe verwendet: hshont - für Ontologie und hshobj - für konkrete Objekte der Hochschule.
 Bei jedem Objekt wird es bestimmt, welche Eigenschaften und oder welche Datenwerte ihm zugewiesen werden können.
+Die Inferenz- und Intergritätsregeln werden ebenso berücksichtigt. Wenn bsw. die Fakultät III die Unterorganisation der HSH ist, dann hat HSH Unterorganisation: Fakultät III.
 Anschließend wird das RDF-Model im Turtle-Syntax dargestellt. Dabei werden die URIs der angewendeten Vokabulare und Objekte am Anfang als Prefixe definiert. 
 Das, mit beschrifteten Kanten und Knoten vervollständigte, Diagramm zeigt die Vernetzung aller Objekte miteinander und weist eine nicht hierarchische Struktur trotz der vorhandenen hierarchischen Elementen auf.
