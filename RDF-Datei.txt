@@ -76,7 +76,7 @@ hshobj:P00075 rdf:type foaf:Person , foaf:Agent ;
 	vcard:hasAddress "Expo Plaza 12" , "30539  Hannover" , "Raum 4.85b" ;
 	vcard:hasTelephone "+49 511 9296-2594" ;
 	vcard:hasEmail <http://christian.wartenaat-zeichenhs-hannover.de> ;
-	dbpedia:hasLocation dbpedia:Hannover ;
+	dbpedia:location dbpedia:Hannover ;
 	teach:teacherOf hshobj:F00002 , hshobj:F333222 , hshobj:F44444 , hshobj:F77777 ;                                 
 	core:hasResearchArea hshobj:RA55555 ;
 	dc:creator "Segmentation Strategies for Passage Retrieval from Internet Video using Speech Transcripts" . 
@@ -94,7 +94,7 @@ hshobj:P00054 rdf:type foaf:Person ;
 	vcard:hasAddress "Expo Plaza 12" , "30539  Hannover" , "Raum: 4.21" ;
 	vcard:hasTelephone "+49 511 9296-2660" ;
 	vcard:hasEmail <http://peter.wuebbeltat-zeichenhs-hannover.de> ;
-	dbpedia:hasLocationCity dbpedia:Hannover ;
+	dbpedia:location dbpedia:Hannover ;
 	teach:teacherOf hshobj:F00002 , hshobj:F333222 , hshobj:F009988 .
 
 hshobj:F333222 rdf:type teach:Course ;
