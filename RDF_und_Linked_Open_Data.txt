@@ -31,34 +31,34 @@ RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF al
 
 > Das Portal bietet Auflistung der Instrumente zur Verarbeitung der Daten wie z. B.: Google Refine o.a. 
 
-[Vgl. Linked Universities 2014, Tools] 
+[Vgl. Linked Universities 2014, Tools](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt) 
 
 >Zudem gibt Linked Universities eine Aufstellung der existierenden Ontologien.> 
 
-[Vgl. Linked Universities 2014, Vocabularies] 
+[Vgl. Linked Universities 2014, Vocabularies](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt) 
 
 > Links zu den Data Sets der Mitglieder - Universitäten sind ebenfalls gegeben.
 
-[Vgl. Linked Univesities 2014, Datasets and Endpoints]
+[Vgl. Linked Univesities 2014, Datasets and Endpoints](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
 ### RDF an der Universität Münster
 Eins der Mitglieder der Linked Universities ist die Universität Muenster. 
 >Die Universität stellt im Rahmen der Initiative LODUM (Linked Open Data University of Münster) ihre administrativen Daten:  Fachbereiche, Mitarbeiter, Projekte und Preise sowie die bibliographischen Daten: Personen und Publiktionen, zur Verfügung. 
 
-[Vgl. LODUM o.J., About LODUM]
+[Vgl. LODUM o.J., About LODUM](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
 > Die Daten sind über CRIS Recherche System zu finden und können in RDF/XML, Turtle oder N-Tripple-Format angesehen und heruntergeladen werden. Neben RDF verwendet LODUM für die Beschreibung von den Informationen  unter anderem follgende Vokabulare: Dublin Core (dc), Web Ontology Language (owl),  International Standard Bibliographic Description (isbd),  Simple Knowledge Organisation System (skos), Bibliographic Ontology (bibo), RDA Ontology (rda), British Library Terms RDF schema (blt), Academic Institution Internal Structure Ontology (aiiso), The Teaching Core Vocabulary (teach) u.a.  
 
-[Vgl. LODUM o.J., Sparqle Endpoints]
+[Vgl. LODUM o.J., Sparqle Endpoints](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
 > Mit der Vernetzung und Bereitstellung der Daten bezweckt LODUM mehr Offenheit und  Transparenz an der Unviersität Münster. Ein weiteres Ziel der Initiative, die Leistung der Universität sichtbarer zu machen und auf diese Weise die Zusammenarbeit mit den internen universitären Einrichtungen wie z.B. Universitätsbibliothek voranzutreiben, aber auch externe Partner heranzuziehen. 
 
-[Vgl. LODUM o.J., About LODUM]
+[Vgl. LODUM o.J., About LODUM](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
 ### RDF an der Hochschule Hannover
 
 Hochschule Hannover ist eine weitere deutsche Hochschule, die sich mit Linked Open Data aktiv auseinandersetzt. Die Bibliothek der Hochschule Hannover baut aktuell auf der Basis der Vivo-Anwendung das vernetzte Datenpool der Hochschule auf. 
 > Das Vivo der Hochschule Hannover soll vollständige Profile der Mitarbeiter, samt der Tätigkeitsbereiche und der Publikationen enthalten. Die Profile können recherchiert werden und neben dem HTML auch in RDF/XML  Format heruntergeladen werden. Die Informationen sollen das kollaborative Forschen und Publizieren fördern. Vivo der Hochschule Hannover verwendet Vokabulare der Vivo Ontology (vivo), Open Biological and Biomedical Ontologies (obo), VCARD, Friend of a Friend Ontology (foaf), Dublin Core (dc), Bibliographic Ontology (bibo). 
 
-[Vgl. Bibliothek der Hochschule Hannover 2014]
+[Vgl. Bibliothek der Hochschule Hannover 2014](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
