@@ -44,6 +44,7 @@ RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF al
 [Vgl. Linked Univesities 2014, Datasets and Endpoints](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
 ### RDF an der Universität Münster
+
 Eins der Mitglieder der Linked Universities ist die Universität Muenster. 
 >Die Universität stellt im Rahmen der Initiative LODUM (Linked Open Data University of Münster) ihre administrativen Daten:  Fachbereiche, Mitarbeiter, Projekte und Preise sowie die bibliographischen Daten: Personen und Publiktionen, zur Verfügung. 
 
