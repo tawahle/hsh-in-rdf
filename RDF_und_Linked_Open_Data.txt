@@ -61,7 +61,7 @@ Eins der Mitglieder der Linked Universities ist die Universität Muenster.
 ### RDF an der Hochschule Hannover
 
 Hochschule Hannover ist eine weitere deutsche Hochschule, die sich mit Linked Open Data aktiv auseinandersetzt. Die Bibliothek der Hochschule Hannover baut aktuell auf der Basis der Vivo-Anwendung das vernetzte Datenpool der Hochschule auf. 
-> Das Vivo der Hochschule Hannover soll vollständige Profile der Mitarbeiter, samt der Tätigkeitsbereiche und der Publikationen enthalten. Die Profile können recherchiert werden und neben dem HTML auch in RDF/XML  Format heruntergeladen werden. Die Informationen sollen das kollaborative Forschen und Publizieren fördern. Vivo der Hochschule Hannover verwendet Vokabulare der Vivo Ontology (vivo), Open Biological and Biomedical Ontologies (obo), VCARD, Friend of a Friend Ontology (foaf), Dublin Core (dc), Bibliographic Ontology (bibo). 
+ Das Vivo der Hochschule Hannover soll vollständige Profile der Mitarbeiter, samt der Tätigkeitsbereiche und der Publikationen enthalten. Die Profile können recherchiert werden und neben dem HTML auch in RDF/XML  Format heruntergeladen werden. Die Informationen sollen das kollaborative Forschen und Publizieren fördern. Vivo der Hochschule Hannover verwendet Vokabulare der Vivo Ontology (vivo), Open Biological and Biomedical Ontologies (obo), VCARD, Friend of a Friend Ontology (foaf), Dublin Core (dc), Bibliographic Ontology (bibo). 
 
 [Vgl. Bibliothek der Hochschule Hannover 2014](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
 
