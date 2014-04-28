@@ -8,5 +8,5 @@ Um die Klassen und die Eigenschaften von den Instanzen der Hochschule auseinande
 Bei jedem Objekt wird es bestimmt, welche Eigenschaften und oder welche Datenwerte ihm zugewiesen werden können.
 Die Inferenz- und Intergritätsregeln werden ebenso berücksichtigt. Wenn bsw. die Fakultät III die Unterorganisation der HSH ist, dann hat HSH Unterorganisation: Fakultät III.
 Anschließend wird das RDF-Model im Turtle-Syntax dargestellt. Dabei werden die URIs der angewendeten Vokabulare und Objekte am Anfang als Prefixe definiert. 
-Die, mit beschrifteten Kanten und Knoten vervollständigte, Graphik zeigt die Beziehungen aller Objekte miteinander und weist eine nicht hierarchische Struktur trotz der vorhandenen hierarchischen Elementen auf. 
+Die, mit beschrifteten Kanten und Knoten vervollständigte, [Graphik](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Graphische_Darstellung_der_Fakultaet_III__HSH.txt) zeigt die Beziehungen aller Objekte miteinander und weist eine nicht hierarchische Struktur trotz der vorhandenen hierarchischen Elementen auf. 
 Die RDF - Darstellung kann beliebig erweitert werden, da die Zuordnung der Elemente zu den weiteren Klassen und das Anfügen von neuen Elementen zusätzliche Beziehungen ergibt.
