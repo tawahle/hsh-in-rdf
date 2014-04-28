@@ -1,6 +1,6 @@
 ### Quellenverzeichnis
 
-@1misc{BibliothekderHohchschuleHannover.2014,
+@bibtexID1misc{BibliothekderHohchschuleHannover.2014,
  author = {{Bibliothek der Hohchschule Hannover}},
  year = {2014},
  title = {Vivo der Hochschule Hannover},
@@ -8,7 +8,7 @@
  urldate = {23.04.2014}
 }
 
-@2misc{DBPedia.17.04.2014,
+@bibtexID2misc{DBPedia.17.04.2014,
  author = {DBPedia},
  year = {17.04.2014},
  title = {DBPedia: Hannover},
@@ -16,7 +16,7 @@
  urldate = {25.04.2014}
 }
 
-@3misc{DublinCoreMetadataInitiative.1995,
+@bibtexID3misc{DublinCoreMetadataInitiative.1995,
  author = {{Dublin Core Metadata Initiative}},
  year = {1995},
  title = {Dublin Core Metadata Initiative: DCMI Metadata Terms},
@@ -24,7 +24,7 @@
  urldate = {25.04.2014}
 }
 
-@4book{Hitzler.2008,
+@bibtexID4book{Hitzler.2008,
  author = {Hitzler, Paskal},
  year = {2008},
  title = {Semantic Web: Grundlagen},
@@ -34,7 +34,7 @@
  isbn = {978-3-540-33993-9}
 }
 
-@5misc{LinkedUniversities.2014b,
+@bibtexID5misc{LinkedUniversities.2014b,
  author = {{Linked Universities}},
  year = {2014},
  title = {Datasets and Endpoints},
@@ -42,7 +42,7 @@
  urldate = {23.04.2014}
 }
 
-@6misc{LinkedUniversities.2014b,
+@bibtexID6misc{LinkedUniversities.2014b,
  author = {{Linked Universities}},
  year = {2014},
  title = {Linked Universities: Tools},
@@ -50,7 +50,7 @@
  urldate = {25.04.2014}
 }
 
-@7misc{LinkedUniversities.2014,
+@bibtexID7misc{LinkedUniversities.2014,
  author = {{Linked Universities}},
  year = {2014},
  title = {Linked Universities: Vocabularies},
@@ -58,7 +58,7 @@
  urldate = {25.04.2014}
 }
 
-@8misc{LinkedUniversities.2014,
+@bibtexID8misc{LinkedUniversities.2014,
  author = {{Linked Universities}},
  year = {2014},
  title = {Linked Universities: Welkome to LinkedUniversities.org},
@@ -66,7 +66,7 @@
  urldate = {24.04.2014}
 }
 
-@9misc{LinkedScience.2012,
+@bibtexID9misc{LinkedScience.2012,
  author = {{Linked Science}},
  year = {2012},
  title = {Teaching Core Vocabulary Specification},
@@ -74,7 +74,7 @@
  urldate = {25.04.2014}
 }
 
-@10misc{LODUM.o.J.,
+@bibtexID10misc{LODUM.o.J.,
  author = {LODUM},
  year = {o.J.},
  title = {About LODUM},
@@ -82,7 +82,7 @@
  urldate = {24.04.2014}
 }
 
-@11misc{LODUM.o.J.b,
+@bibtexID11misc{LODUM.o.J.b,
  author = {LODUM},
  year = {o.J.},
  title = {LODUM: Sparqle Endpoint: Show/Hide Prefixes},
@@ -90,7 +90,7 @@
  urldate = {24.04.2014}
 }
 
-@12misc{VIVO.o.J.,
+@bibtexID12misc{VIVO.o.J.,
  author = {VIVO},
  year = {o. J.},
  title = {VIVO-ISF Ontology version 1.6},
@@ -98,7 +98,7 @@
  urldate = {25.04.2014}
 }
 
-@13misc{W3C.2012,
+@bibtexID13misc{W3C.2012,
  author = {W3C},
  year = {2012},
  title = {The Organization Ontology: W3C Recommendation 16 January 2014},
