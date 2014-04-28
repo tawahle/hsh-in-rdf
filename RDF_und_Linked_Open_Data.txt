@@ -4,15 +4,15 @@ Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht we
 RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als 
 >eine formale Sprache für die Beschreibung strukturierter Informationen.
 
-[Vgl. Hitzler 2008, S. 35]
+[[Vgl. Hitzler 2008, S. 35](@bibtexID4)]
 
 > RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung.
 
-[Vgl.Hitzler 2008, S.35]
+[Vgl.Hitzler 2008, S.35](@bibtexID4)]
 
 > Zur Beschreibung von Objekten verwendet RDF URIs (United Ressource Identifier). Die URIs ähnlen in ihrer Struktur den URLs und sind Verweise auf konkrete Objekte oder Personen.
 
-[Vgl. Hitzler 2008, S.36]
+[Vgl. Hitzler 2008, S.36](@bibtexID4)]
 
 
 ### RDF und Linked Universities
