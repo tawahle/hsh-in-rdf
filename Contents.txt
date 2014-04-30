@@ -6,3 +6,4 @@ Diagramm.txt
 Fazit.txt
 Quellenverzeichnis.txt
 Graphische_Darstellung_der_Fakultaet_III__HSH.txt
+references.bib
