@@ -1,16 +1,8 @@
-##RDF und Linked Open Data  
+## RDF und Linked Open Data  
 
 ### RDF
 
-Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wachsen, ist RDF ein notwendiger Bestandteil des Linked Open Data.
-RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als 
->eine formale Sprache für die Beschreibung strukturierter Informationen.
-
-[Vgl. Hitzler 2008, S. 35](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
-
-> RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung.
-
-[Vgl. Hitzler 2008, S.35](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
+Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wachsen, ist RDF ein notwendiger Bestandteil des Linked Open Data. Hitzler definiert RDF als "eine formale Sprache für die Beschreibung strukturierter Informationen." [@Hitzler.2008, S.35]. Das Resource Description Framework (RDF) wurde "zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung." [@Hitzler.2008, S.35].
 
 > Zur Beschreibung von Objekten verwendet RDF URIs (United Ressource Identifier). Die URIs ähnlen in ihrer Struktur den URLs und sind Verweise auf konkrete Objekte oder Personen.
 
