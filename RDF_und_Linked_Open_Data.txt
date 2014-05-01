@@ -1,16 +1,8 @@
-##RDF und Linked Open Data  
+## RDF und Linked Open Data  
 
 ### RDF
 
-Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wachsen, ist RDF ein notwendiger Bestandteil des Linked Open Data.
-RDF wird als Resource Description Framework aufgelöst. Hitzler definiert RDF als 
->eine formale Sprache für die Beschreibung strukturierter Informationen.
-
-[Vgl. Hitzler 2008, S. 35](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
-
-> RDF wurde zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung.
-
-[Vgl. Hitzler 2008, S.35](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
+Da die Datenvolumen und Datenvielfalt, die verknüpft und zugänglich gemacht werden müssen,  besonders in der Forschung und Wissenschaft stets wachsen, ist RDF ein notwendiger Bestandteil des Linked Open Data. Hitzler definiert RDF als "eine formale Sprache für die Beschreibung strukturierter Informationen." [@Hitzler.2008, S.35]. Das Resource Description Framework (RDF) wurde "zur Datenbeschreibung im WWW entwickelt, da die Sprache den Austausch und das Verknüpfen von Daten im Web ermöglicht. Die Daten verlieren dabei nicht ihre ursprüngliche Bedeutung." [@Hitzler.2008, S.35].
 
 > Zur Beschreibung von Objekten verwendet RDF URIs (United Ressource Identifier). Die URIs ähnlen in ihrer Struktur den URLs und sind Verweise auf konkrete Objekte oder Personen.
 
@@ -60,7 +52,7 @@ Eins der Mitglieder der Linked Universities ist die Universität Muenster.
 
 ### RDF an der Hochschule Hannover
 
-Hochschule Hannover ist eine weitere deutsche Hochschule, die sich mit Linked Open Data aktiv auseinandersetzt. Die Bibliothek der Hochschule Hannover baut aktuell auf der Basis der Vivo-Anwendung das vernetzte Datenpool der Hochschule auf. 
+Auch die Hochschule Hannover setzt sich aktiv mit Linked Open Data  auseinander. Die Bibliothek der Hochschule Hannover baut aktuell auf der Basis der VIVO-Anwendung das vernetzte Datenpool der Hochschule auf. 
  Das Vivo der Hochschule Hannover soll vollständige Profile der Mitarbeiter, samt der Tätigkeitsbereiche und der Publikationen enthalten. Die Profile können recherchiert werden und neben dem HTML auch in RDF/XML  Format heruntergeladen werden. Die Informationen sollen das kollaborative Forschen und Publizieren fördern. Vivo der Hochschule Hannover verwendet Vokabulare der Vivo Ontology (vivo), Open Biological and Biomedical Ontologies (obo), VCARD, Friend of a Friend Ontology (foaf), Dublin Core (dc), Bibliographic Ontology (bibo). 
 
 [Vgl. Bibliothek der Hochschule Hannover 2014](https://www.penflip.com/editor/#lawate/rdf-beschreibung-der-fakultaet-iii-der-hochschule-hannover/edit/master/Quellenverzeichnis.txt)
