@@ -25,12 +25,12 @@ hshobj:H4854 	rdf:type org:Organization , core:University ;
 	
 dbpedia:Hannover rdf:type dbpedia:City .
 	 
-hshobj:Abs8888 vcard:hasName "Bachelor" .
+hshobj:Abs8888 rdf:label "Bachelor" .
 
-hshobj:Abs9999 vcard:hasName "Master" .
+hshobj:Abs9999 rdf:label "Master" .
 
-hshobj:Abs5555 vcard:hasName "Diplom" .
-	
+hshobj:Abs5555 rdf:label "Diplom" .
+
 hshobj:Fak6234 rdf:type core:AcademicDepartment ;
 	org:Sub-OrganizationOf hshobj:H4854 ; 
 	vcard:hasOrganizationalUnitName "Fakultaet III Medien, Information und Design"@de ;
