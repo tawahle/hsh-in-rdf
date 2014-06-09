@@ -1,4 +1,0 @@
-### Graphische Darstellung der Fakultaet III, HSH
-
-
-![rdf-Beschreibung_der_HSH__Fak._III.png](images/rdf-Beschreibung_der_HSH__Fak._III.png)
