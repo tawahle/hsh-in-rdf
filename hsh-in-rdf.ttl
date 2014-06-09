@@ -76,8 +76,8 @@ hshobj:P00075 rdf:type foaf:Person , foaf:Agent ;
 	vcard:FamilyName "Wartena" ;
 	vcard:GivenName "Christian" ;
     vcard:hasStreetAddress "Expo Plaza 12" ;
-    vcard:hasPostalcode "30539" 
-    dbpedia:location dbpedia:Hannover; 
+    vcard:hasPostalcode "30539" ; 
+    dbpedia:location dbpedia:Hannover ; 
     teach:building"Raum 4.85b" ;
 	vcard:hasTelephone "+49 511 9296-2594" ;
 	vcard:hasEmail <http://christian.wartenaat-zeichenhs-hannover.de> ;
