@@ -1,7 +1,0 @@
-Einleitung.txt
-RDF_und_Linked_Open_Data.txt
-RDF_der_Fakultaet_III__Vorgehensweise.txt
-RDF-Datei.txt
-Fazit.txt
-Graphische_Darstellung_der_Fakultaet_III__HSH.txt
-
