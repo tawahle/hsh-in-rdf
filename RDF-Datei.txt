@@ -17,7 +17,7 @@
 
 
 hshobj:H4854 	rdf:type org:Organization , core:University ;
-	vcard:hasOrganizationName "Hochschule Hannover"@de , "Univercity of Applied Scince and Arts Hannover"@en ; 							
+	vcard:OrganizationName "Hochschule Hannover"@de , "Univercity of Applied Scince and Arts Hannover"@en ; 							
 	foaf:homepage <http://www.hs-hannover.de> ;
 	dbpedia:hasLocation dbpedia:Hannover ;	
 	org:hasSub-Organization hshobj:Fak6234 ; 
@@ -25,20 +25,20 @@ hshobj:H4854 	rdf:type org:Organization , core:University ;
 	
 dbpedia:Hannover rdf:type dbpedia:City .
 	 
-hshobj:Abs8888 vcard:hasName "Bachelor" .
+hshobj:Abs8888 rdf:label "Bachelor" .
 
-hshobj:Abs9999 vcard:hasName "Master" .
+hshobj:Abs9999 rdf:label "Master" .
 
-hshobj:Abs5555 vcard:hasName "Diplom" .
-	
+hshobj:Abs5555 rdf:label "Diplom" .
+
 hshobj:Fak6234 rdf:type core:AcademicDepartment ;
 	org:Sub-OrganizationOf hshobj:H4854 ; 
-	vcard:hasOrganizationalUnitName "Fakultaet III Medien, Information und Design"@de ;
+	vcard:OrganizationalUnitName "Fakultaet III Medien, Information und Design"@de ;
 	vcard:hasURL <http://f3.hs-hannover.de> ;
 	org:hasSub-Organization hshobj:Abt62341 .
 	
 hshobj:Abt62341  rdf:type core:Division ;
-	vcard:hasOrganizationalUnitName "Abteilung Information und Kommunikation"@de ;
+	vcard:OrganizationalUnitName "Abteilung Information und Kommunikation"@de ;
 	org:Sub-OrganizationOf hshobj:H4854 ,hshobj:Fak6234 ;
 	vcard:hasAddress "Expo-Plaza 12", "D-30539" , "Hannover" ; 
 	vcard:hasTelephone "+49-(0) 511- 92 96 - 2602/2605" ;                                
@@ -47,7 +47,7 @@ hshobj:Abt62341  rdf:type core:Division ;
 	
 hshobj:S623411 rdf:type hshont:Studiengang ;
 	org:Sub-OrganizationOf hshobj:H4854 , hshobj:Fak6234 , hshobj:Abt62341 ;
-	vcard:hasOrganizationalUnitName "Informationsmanagement"@de ;
+	vcard:OrganizationalUnitName "Informationsmanagement"@de ;
 	vcard:homepage <http://f3.hs-hannover.de/studium/bachelor/informationsmanagement> ;
 	vcard:hasAddress "Expo Plaza 12" ;
 	hshont:hatAbschluessTyp hshobj:Abs8888 ;
@@ -56,7 +56,7 @@ hshobj:S623411 rdf:type hshont:Studiengang ;
 				
 hshobj:S623412 rdf:type hshont:Studiengang ;
 	org:SuborganizationOf hshobj:H4854 , hshobj:Fak6234 , hshobj:Abt62341 ;
-	vcard:hasOrganizationalUnitName "Medizinisches Informationsmanagement" ;
+	vcard:OrganizationalUnitName "Medizinisches Informationsmanagement" ;
 	vcard:homepage <http://f3.hs-hannover.de/studium/bachelor/medizinisches-informationsmanagement> ;
 	hshont:hatAbschlusstyp hshobj:Abs8888 ;
 	hshont:hatSemesterAnzahl "7" ;
